@@ -1,0 +1,38 @@
+{
+  "rice": [
+    {
+      "name": "basmati",
+      "weight_in_kg": 5,
+      "price_per_kg": 80
+    },
+    {
+      "name": "indrayani",
+      "weight_in_kg": 4,
+      "price_per_kg": 70
+    }
+  ],
+  "wheat": [
+    {
+      "name": "khapli",
+      "weight_in_kg": 6,
+      "price_per_kg": 7
+    },
+    {
+      "name": "sharbati",
+      "weight_in_kg": 7,
+      "price_per_kg": 7
+    }
+  ],
+  "pulses": [
+    {
+      "name": "yellow_pigeon_peas",
+      "weight_in_kg": 2,
+      "price_per_kg": 80
+    },
+    {
+      "name": "split_bengal_gram",
+      "weight_in_kg": 1,
+      "price_per_kg": 70
+    }
+  ]
+}
