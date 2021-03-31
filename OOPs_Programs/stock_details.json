@@ -1,20 +1,19 @@
-
 {
   "stock_details": [
     {
-      "stock_name": "Model X",
+      "stock_name": "Reliance",
       "number_of_share": "5",
       "share_price": "1250",
       "total": "6250"
     },
     {
-      "stock_name": "Model Y",
+      "stock_name": "Tata Motor",
       "number_of_share": "2",
       "share_price": "2050",
       "total": "4100"
     },
     {
-      "stock_name": "Model Z",
+      "stock_name": "L&T",
       "number_of_share": "8",
       "share_price": "2800",
       "total": "22400"
