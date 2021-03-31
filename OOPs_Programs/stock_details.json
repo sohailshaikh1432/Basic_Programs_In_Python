@@ -1,0 +1,23 @@
+
+{
+  "stock_details": [
+    {
+      "stock_name": "Model X",
+      "number_of_share": "5",
+      "share_price": "1250",
+      "total": "6250"
+    },
+    {
+      "stock_name": "Model Y",
+      "number_of_share": "2",
+      "share_price": "2050",
+      "total": "4100"
+    },
+    {
+      "stock_name": "Model Z",
+      "number_of_share": "8",
+      "share_price": "2800",
+      "total": "22400"
+    }
+  ]
+}
