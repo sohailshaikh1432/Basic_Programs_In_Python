@@ -4,7 +4,7 @@ from Log_Configuration import log_config_file
 logger = log_config_file.get_logger()
 
 
-class JsonClass:
+class InventoryDetails:
 
     @staticmethod
     def calculate(rice_weight_in_kg, rice_price_per_kg):
@@ -67,7 +67,7 @@ class JsonClass:
 
 # Creating object of class & calling method
 try:
-    json_class_object = JsonClass()
+    json_class_object = InventoryDetails()
     json_class_object.get_json()
 except Exception as e:
     logger.exception(e)
